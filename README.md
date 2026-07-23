@@ -4,7 +4,7 @@ I'm Hardik Duva, a Senior QA Automation Engineer with 9+ years of
 experience building test frameworks that actually gate releases.
 
 I specialise in Playwright and Selenium automation, AI product testing, 
-and wiring CI/CD pipelines so a red build means one real thing to fix — 
+and wiring CI/CD pipelines so a red build means one real thing to fix 
 not a false alarm nobody trusts.
 
 On Upwork: Top Rated Plus · 100% Job Success · every contract 5.0 · 
