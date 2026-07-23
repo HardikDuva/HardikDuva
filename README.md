@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**HardikDuva/HardikDuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hardik Duva, a Senior QA Automation Engineer with 9+ years of 
+experience building test frameworks that actually gate releases.
 
-Here are some ideas to get you started:
+I specialise in Playwright and Selenium automation, AI product testing, 
+and wiring CI/CD pipelines so a red build means one real thing to fix — 
+not a false alarm nobody trusts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On Upwork: Top Rated Plus · 100% Job Success · every contract 5.0 · 
+$90K+ earned across healthcare SaaS, ecommerce, and AI products.
+
+You don't have a testing problem. You have a quality engineering problem.
+
+Feel free to explore my frameworks and connect! 🚀
